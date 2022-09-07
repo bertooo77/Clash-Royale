@@ -1,0 +1,130 @@
+body {
+ background: #202020;
+ color: white;
+}		
+
+		#banner-1 {
+			height: 900px;
+			width: 1850px;
+		}
+
+		.principal {
+			padding: 30px;
+			font-size: 20px;
+		}
+
+		.titulo-main{
+			padding-left: 20px;
+		}	
+
+		.titulo-centro {
+			text-align: left;
+			padding-left: 20px;
+		}
+
+		.cartas {
+			font-size: 20px;
+		}
+
+p {
+		text-align: left;
+				}
+			
+		.itens {
+			font-style: italic
+		}
+
+		.beneficios {
+			padding: 20px	 
+		}
+
+h3 {
+
+}
+
+		#zap {
+			width: 10%;	
+		}
+
+		#corredor {
+			width: 10%;
+		}
+
+		#pekka {
+			width: 10%;
+		}
+
+		#ariete {
+			width: 10%;
+		}
+
+		#mago {
+			width: 10%;
+		}
+
+		#mega {
+			width: 10%;
+		}
+
+h4 {
+
+}		
+ 
+	.titulo-2 {
+		font-size: 25px;
+		padding-left: 20px;
+	}
+
+	#mosqueteiras {
+		width: 10%;
+	}
+
+	#copy {
+		width: 10%;
+	}
+
+	#cabana {
+		width: 10%;
+	}
+
+	#dragao {
+		width: 10%;
+	}
+
+	#golem {
+		width: 10%;
+	}
+
+	#walter-white {
+		width: 10%;
+	}
+
+h5 {
+
+}	
+
+	.titulo-3 {
+		font-size: 10px;
+		text-align: center;
+	}
+
+	.deck {
+		padding-top: 50px;
+		font-size: 30px;
+		text-align: center;
+	}
+
+h6 {
+
+}	
+
+	.titulo-4 {
+		font-size: 10px;
+		text-align: center;
+	}
+
+	.dica {
+		padding-top: 50px;
+		font-size: 30px;
+		text-align: center;
+	}
